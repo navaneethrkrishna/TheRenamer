@@ -26,10 +26,11 @@
 ➡️[BOT 4](https://t.me/rename4robot)   
 ➡️[BOT 5](https://t.me/rename5robot)
 
+# Deploy To Heroku ♾️
 
-# Deploy straight to Heroku!
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna/TheRenamer"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+</p>
 
 # Required Strings :-
 
