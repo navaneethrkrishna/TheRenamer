@@ -29,7 +29,7 @@
 # Deploy To Heroku ♾️
 
 <p align="center">
-<a href="[![Deploy](https://www.herokucdn.com/deploy"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="[![Deploy](https://www.herokucd" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
 # Required Strings :-
