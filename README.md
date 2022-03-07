@@ -32,7 +32,14 @@
 <a href="[![Deploy](https://www.herokucd" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
 
-# Required Strings :-
+# Required Strings :
+#Deploying To Heroku
+
+# Deploy To Heroku ♾️
+
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna/TheRenamer"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+</p>
 
 * -> `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
 
@@ -43,4 +50,4 @@
 ## Credits, and Thanks to Beloved Developers ;
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
-* [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
+* [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)#
